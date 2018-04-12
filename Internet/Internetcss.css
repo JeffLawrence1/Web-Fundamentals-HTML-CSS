@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 970px;
+    height: 770px;
+    background-color: gray;
+    margin-left: 20px;
+}
+
+#head {
+    width: 970px;
+    height: 130px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+}
+
+#world {
+    width: 75px;
+    height: 75px;
+    position: relative;
+    display: inline-block;
+    top: 25px;
+}
+
+#int {
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    vertical-align: top;
+}
+
+#theint {
+    color: #6a6f77;
+}
+
+#net {
+    color: blue;
+}
+
+#web {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: white;
+    background: radial-gradient(#4e8bed, #0b2c60);
+    width: 950px;
+    height: 35px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+#ninja {
+    width: 150px;
+    height: 250px;
+    background-image: url("ad_background.png");
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#nin {
+    width: 70px;
+    height: 90px;
+    margin-bottom: 15px;
+}
+
+#but {
+    color: white;
+    background-color: #1fb36c;
+    width: 125px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}

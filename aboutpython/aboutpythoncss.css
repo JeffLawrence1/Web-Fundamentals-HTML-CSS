@@ -1,0 +1,248 @@
+.wrapper {
+    width: 970px;
+    height: 850px;
+    background-color: grey;
+}
+
+.top {
+    width: 970px;
+    height: 550px;
+    background-color: #1443a8;
+}
+
+#tippytop {
+    display: inline-block;
+    width: 970px;
+    height: 130px;
+}
+
+#topleft {
+    display: inline-block;
+}
+
+#topright {
+    display: inline-block;
+    margin-left: 220px;
+    position: absolute;
+}
+
+#toprightbackground {
+    background-color: #323944;
+    width: 275px;
+    height: 65px;
+    border-radius: 10px;
+}
+
+#toprighttextsize {
+    margin-left: 75px;
+}
+
+#normal {
+    color: yellow;
+}
+
+#large {
+    color: yellow;
+}
+
+#tsize {
+    color: white;
+}
+
+#search {
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#searchbox {
+    text-align: center;
+}
+
+#submit {
+    background-color: blue;
+    color: white;
+}
+
+#topmidbar {
+    width: 970px;
+    height: 55px;
+}
+
+#midbarback {
+    background: radial-gradient(circle, #5989d6, #3565b2);
+    width: 760px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 105px;
+}
+
+#midbartext {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    word-spacing: 15px;
+    text-decoration: none;
+}
+
+.About1 {
+    color: white;
+}
+
+#topbottom {
+    width: 970px;
+    height: 390px;
+}
+
+#topbottomleft {
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    display: inline-block;
+}
+
+#topbottomleft ul {
+    text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+    padding: 0px;
+    color: white;
+    margin-left: 60px;
+    list-style: inside;
+}
+
+.topleftdocs {
+    color: white;
+    font-size: 20px;
+    line-height: 175%;
+}
+
+#topbottomright {
+    width: 650px;
+    height: 330px;
+    display: inline-block;
+    position: absolute;
+}
+
+#topbottomrighttop {
+    width: 628px;
+    height: 100px;
+    text-align-last: center;
+    color: white;
+}
+
+#topbottomrightbottom {
+    width: 630px;
+    height: 250px;
+}
+
+.yellowbot {
+    text-align: center;
+    color: yellow;
+    line-height: 55%;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#zen {
+    text-align: center;
+    color: white;
+}
+
+.mid {
+    width: 970px;
+    height: 220px;
+    background-color: white;
+}
+
+.midbox {
+    width: 485px;
+    height: 220px;
+    display: inline-block;
+}
+
+#midleft {
+    width: 420px;
+    height: 210px;
+    border-top-style: solid;
+    border-color: #3565b2;
+    border-width: 5px;
+    margin-top: 10px;
+    margin-left: 80px;
+    text-align: center;
+    vertical-align: top;
+}
+
+#midright {
+    width: 420px;
+    height: 210px;
+    border-top-style: solid;
+    border-color: #3565b2;
+    border-width: 5px;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.middd {
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: square;
+}
+
+#mmm {
+    text-align-last: center;
+}
+
+.midlul {
+    color: #3565b2;
+}
+
+#midlul1 {
+    color: #3565b2;
+    text-align-last: center;
+}
+
+.botlefdot {
+    text-align: center;
+}
+
+#app {
+    color: #3565b2;
+}
+
+.bottom {
+    width: 970px;
+    height: 100px;
+    background: linear-gradient(#1443a8, #1a5ced);
+}
+
+#help {
+    text-align: center;
+    color: gray;
+    width: 600px;
+    height: 30px;
+    margin-left: 200px;
+    padding-top: 45px;
+}
+
+.hh {
+    color: gray;
+    margin-right: 25px;
+    font-size: 16px;
+}
+
+#copy {
+    color: gray;
+    font-size: 10px;
+    width: 600px;
+    height: 30px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.image {
+    width: 340px;
+    height: 100px;
+    margin: 25px 20px 20px 25px;
+}
